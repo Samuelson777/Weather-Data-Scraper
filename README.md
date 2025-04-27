@@ -24,3 +24,6 @@ A simple Python script that scrapes current weather data for a specified city us
 ## Example Output Screenshot
 
 ![Example Output Screenshot](https://github.com/user-attachments/assets/a6addde2-b187-480c-8780-e376f6d98a04)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/Weather-Data-Scraper/blob/main/LICENSE) file for details.
